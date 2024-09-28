@@ -42,7 +42,7 @@ There are also lots of other online reading resources to help you learn Git:
 
 - You can connect with developers around the world to ask and answer questions, learn, and interact directly with GitHub staff. To get the conversation started, see "[GitHub Community Support](https://docs.github.com/en/get-started/start-your-journey/git-and-github-learning-resources#:~:text=GitHub%20Community%20Support)."
 
-
+## Personal Notes
 
 
 
